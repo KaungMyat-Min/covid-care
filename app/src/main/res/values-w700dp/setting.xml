@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">true</bool>
+    <integer name="locationGridCount">2</integer>
+    <integer name="shopGridCount">2</integer>
+</resources>

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Covid Care</string>
+    <string name="lb_oxygen">Oxygen ရသောနေရာများ</string>
+    <string name="error_no_internet_connection">No Internet Connection</string>
+    <string name="error_server_down">Can\'t connect to server. Please try again later.</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
 </resources>
